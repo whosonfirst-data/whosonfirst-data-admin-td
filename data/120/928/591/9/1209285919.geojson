@@ -42,7 +42,7 @@
         "gn:id":2426852
     },
     "wof:country":"TD",
-    "wof:geomhash":"8670776d5696659f5c02c2962edefe65",
+    "wof:geomhash":"02ea12415eccd6861486aa97b1397be7",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -65,5 +65,5 @@
     17.83947000000001,
     10.4355
 ],
-  "geometry": {"coordinates":[17.83947000000001,10.4355],"type":"Point"}
+  "geometry": {"coordinates":[17.83947,10.4355],"type":"Point"}
 }

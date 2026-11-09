@@ -41,7 +41,7 @@
         "gn:id":6909321
     },
     "wof:country":"TD",
-    "wof:geomhash":"5b58678a70ed2d5902f322688814e539",
+    "wof:geomhash":"067dbacf764884da5eb7329177d3805e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     16.62797999999999,
     8.74869
 ],
-  "geometry": {"coordinates":[16.62797999999999,8.74869],"type":"Point"}
+  "geometry": {"coordinates":[16.62798,8.74869],"type":"Point"}
 }
