@@ -98,12 +98,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Ung Giang"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9095\u6c5f"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u9095\u6c5f"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -121,7 +115,7 @@
         }
     ],
     "wof:id":1209581209,
-    "wof:lastmodified":1636501304,
+    "wof:lastmodified":1794999722,
     "wof:name":"Yong",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

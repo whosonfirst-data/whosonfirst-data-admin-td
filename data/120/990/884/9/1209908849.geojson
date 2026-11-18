@@ -80,12 +80,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng You"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u53f3\u6c5f"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u53f3\u6c5f"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -109,7 +103,7 @@
         }
     ],
     "wof:id":1209908849,
-    "wof:lastmodified":1636501301,
+    "wof:lastmodified":1794999722,
     "wof:name":"You",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

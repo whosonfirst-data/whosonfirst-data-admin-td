@@ -107,12 +107,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Dung Giang"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6995\u6c5f"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6995\u6c5f"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -136,7 +130,7 @@
         }
     ],
     "wof:id":1225909151,
-    "wof:lastmodified":1636501323,
+    "wof:lastmodified":1794999722,
     "wof:name":"Rong",
     "wof:parent_id":1091900237,
     "wof:placetype":"locality",

@@ -74,12 +74,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Verde"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u4f5b\u5f97\u89d2\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7dad\u5fb7\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":1209484951,
-    "wof:lastmodified":1636501302,
+    "wof:lastmodified":1794999722,
     "wof:name":"Verde",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
