@@ -1,0 +1,74 @@
+{
+  "id": 9895059246,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48347,12.32138,21.48347,12.32138",
+    "geom:latitude":12.32138,
+    "geom:longitude":21.48347,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492444: name \"Dogdore\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492444"
+        },
+        {
+            "citation":"GeoNames populated place 12492444: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492444"
+        },
+        {
+            "citation":"GeoNames populated place 12492444: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492444"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091900861 (Kimiti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678523,
+        102191573,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492444
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"85b7dfed0e562256e52a91206a6677a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":9895059246,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":9895059246,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Dogdore",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48347,
+    12.32138,
+    21.48347,
+    12.32138
+],
+  "geometry": {"coordinates":[21.48347,12.32138],"type":"Point"}
+}

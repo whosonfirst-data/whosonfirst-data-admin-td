@@ -1,0 +1,74 @@
+{
+  "id": 9895058880,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5493,13.6659,16.5493,13.6659",
+    "geom:latitude":13.6659,
+    "geom:longitude":16.5493,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2427560: name \"Bir Mousou Moura\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2427560"
+        },
+        {
+            "citation":"GeoNames populated place 2427560: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2427560"
+        },
+        {
+            "citation":"GeoNames populated place 2427560: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2427560"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901247 (Barh-El-Gazel Sud), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678519,
+        102191573,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427560
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"37530736c06c1517cd573e5cba184449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":9895058880,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":9895058880,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Bir Mousou Moura",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5493,
+    13.6659,
+    16.5493,
+    13.6659
+],
+  "geometry": {"coordinates":[16.5493,13.6659],"type":"Point"}
+}

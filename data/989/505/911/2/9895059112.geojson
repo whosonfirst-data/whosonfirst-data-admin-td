@@ -1,0 +1,74 @@
+{
+  "id": 9895059112,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21528,14.4801,22.21528,14.4801",
+    "geom:latitude":14.4801,
+    "geom:longitude":22.21528,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492297: name \"Kesle I\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492297"
+        },
+        {
+            "citation":"GeoNames populated place 12492297: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492297"
+        },
+        {
+            "citation":"GeoNames populated place 12492297: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492297"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492297
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"742d8a09a14e62893fb0ccfe7c2deb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895059112,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059112,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Kesle I",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21528,
+    14.4801,
+    22.21528,
+    14.4801
+],
+  "geometry": {"coordinates":[22.21528,14.4801],"type":"Point"}
+}

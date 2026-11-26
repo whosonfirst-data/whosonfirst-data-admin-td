@@ -1,0 +1,74 @@
+{
+  "id": 9895059097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71307,14.7232,20.71307,14.7232",
+    "geom:latitude":14.7232,
+    "geom:longitude":20.71307,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492281: name \"Wiwate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492281"
+        },
+        {
+            "citation":"GeoNames populated place 12492281: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492281"
+        },
+        {
+            "citation":"GeoNames populated place 12492281: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492281"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901409 (Biltine), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492281
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4968b31e47d25624e4ae14851ba149e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":9895059097,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059097,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Wiwate",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71307,
+    14.7232,
+    20.71307,
+    14.7232
+],
+  "geometry": {"coordinates":[20.71307,14.7232],"type":"Point"}
+}

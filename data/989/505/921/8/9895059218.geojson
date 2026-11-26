@@ -1,0 +1,74 @@
+{
+  "id": 9895059218,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.37951,14.73078,22.37951,14.73078",
+    "geom:latitude":14.73078,
+    "geom:longitude":22.37951,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492416: name \"Korey\u00e9 Korota\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492416"
+        },
+        {
+            "citation":"GeoNames populated place 12492416: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492416"
+        },
+        {
+            "citation":"GeoNames populated place 12492416: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492416"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901453 (Iriba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492416
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1d1f876700364c9ff8560a7afe31eadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901453,
+            "locality_id":9895059218,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059218,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Korey\u00e9 Korota",
+    "wof:parent_id":1091901453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.37951,
+    14.73078,
+    22.37951,
+    14.73078
+],
+  "geometry": {"coordinates":[22.37951,14.73078],"type":"Point"}
+}

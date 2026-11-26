@@ -1,0 +1,74 @@
+{
+  "id": 9895059253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42004,12.24599,21.42004,12.24599",
+    "geom:latitude":12.24599,
+    "geom:longitude":21.42004,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492452: name \"Ablelaye\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492452"
+        },
+        {
+            "citation":"GeoNames populated place 12492452: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492452"
+        },
+        {
+            "citation":"GeoNames populated place 12492452: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492452"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091900861 (Kimiti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678523,
+        102191573,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492452
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0c470fe070a45ad4f6ef72d37579004a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":9895059253,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":9895059253,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Ablelaye",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42004,
+    12.24599,
+    21.42004,
+    12.24599
+],
+  "geometry": {"coordinates":[21.42004,12.24599],"type":"Point"}
+}

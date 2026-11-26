@@ -1,0 +1,74 @@
+{
+  "id": 9895059425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84684,13.84327,14.84684,13.84327",
+    "geom:latitude":13.84327,
+    "geom:longitude":14.84684,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527298: name \"Kekedina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527298"
+        },
+        {
+            "citation":"GeoNames populated place 13527298: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527298"
+        },
+        {
+            "citation":"GeoNames populated place 13527298: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527298"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901305 (Kanem), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678439,
+        102191573,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527298
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b9bd9e23375df8df951f0300f3cfe3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":9895059425,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":9895059425,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Kekedina",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84684,
+    13.84327,
+    14.84684,
+    13.84327
+],
+  "geometry": {"coordinates":[14.84684,13.84327],"type":"Point"}
+}

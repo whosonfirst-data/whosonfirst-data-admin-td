@@ -1,0 +1,74 @@
+{
+  "id": 9895059312,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02111,13.82194,17.02111,13.82194",
+    "geom:latitude":13.82194,
+    "geom:longitude":17.02111,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492518: name \"Kokoye\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492518"
+        },
+        {
+            "citation":"GeoNames populated place 12492518: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492518"
+        },
+        {
+            "citation":"GeoNames populated place 12492518: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492518"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901525 (Barh-El-Gazel Nord), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678519,
+        102191573,
+        1091901525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492518
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7697a3eaafad7cddf6242fb03e13b44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901525,
+            "locality_id":9895059312,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":9895059312,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Kokoye",
+    "wof:parent_id":1091901525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02111,
+    13.82194,
+    17.02111,
+    13.82194
+],
+  "geometry": {"coordinates":[17.02111,13.82194],"type":"Point"}
+}

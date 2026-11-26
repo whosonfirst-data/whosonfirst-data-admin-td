@@ -1,0 +1,74 @@
+{
+  "id": 9895059131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12299,15.65814,22.12299,15.65814",
+    "geom:latitude":15.65814,
+    "geom:longitude":22.12299,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492318: name \"Marassabre Mimi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492318"
+        },
+        {
+            "citation":"GeoNames populated place 12492318: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492318"
+        },
+        {
+            "citation":"GeoNames populated place 12492318: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492318"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901453 (Iriba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492318
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c83798b0188461d0ac88b790232b96d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901453,
+            "locality_id":9895059131,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059131,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Marassabre Mimi",
+    "wof:parent_id":1091901453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12299,
+    15.65814,
+    22.12299,
+    15.65814
+],
+  "geometry": {"coordinates":[22.12299,15.65814],"type":"Point"}
+}

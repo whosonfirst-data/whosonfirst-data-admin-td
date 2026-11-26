@@ -1,0 +1,74 @@
+{
+  "id": 9895059167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74112,14.40094,21.74112,14.40094",
+    "geom:latitude":14.40094,
+    "geom:longitude":21.74112,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492364: name \"Barounga Folo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492364"
+        },
+        {
+            "citation":"GeoNames populated place 12492364: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492364"
+        },
+        {
+            "citation":"GeoNames populated place 12492364: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492364"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492364
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"24040b6be5348779d401f8e597b45bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895059167,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059167,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Barounga Folo",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74112,
+    14.40094,
+    21.74112,
+    14.40094
+],
+  "geometry": {"coordinates":[21.74112,14.40094],"type":"Point"}
+}

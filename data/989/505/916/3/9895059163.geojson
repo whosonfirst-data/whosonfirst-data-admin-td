@@ -1,0 +1,74 @@
+{
+  "id": 9895059163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01302,15.29172,21.01302,15.29172",
+    "geom:latitude":15.29172,
+    "geom:longitude":21.01302,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492360: name \"Djoudjou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492360"
+        },
+        {
+            "citation":"GeoNames populated place 12492360: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492360"
+        },
+        {
+            "citation":"GeoNames populated place 12492360: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492360"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901409 (Biltine), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492360
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"961680f859e73ee2612e6e99708a872e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":9895059163,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059163,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Djoudjou",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01302,
+    15.29172,
+    21.01302,
+    15.29172
+],
+  "geometry": {"coordinates":[21.01302,15.29172],"type":"Point"}
+}

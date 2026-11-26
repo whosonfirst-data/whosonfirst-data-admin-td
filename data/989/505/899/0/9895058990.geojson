@@ -1,0 +1,74 @@
+{
+  "id": 9895058990,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05625,14.45276,22.05625,14.45276",
+    "geom:latitude":14.45276,
+    "geom:longitude":22.05625,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492170: name \"Kirio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492170"
+        },
+        {
+            "citation":"GeoNames populated place 12492170: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492170"
+        },
+        {
+            "citation":"GeoNames populated place 12492170: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492170"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492170
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"77edd3353761da4522893e65d96a4491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895058990,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895058990,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Kirio",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05625,
+    14.45276,
+    22.05625,
+    14.45276
+],
+  "geometry": {"coordinates":[22.05625,14.45276],"type":"Point"}
+}

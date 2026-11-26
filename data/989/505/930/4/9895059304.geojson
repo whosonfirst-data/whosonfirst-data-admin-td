@@ -1,0 +1,74 @@
+{
+  "id": 9895059304,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05784,13.46021,16.05784,13.46021",
+    "geom:latitude":13.46021,
+    "geom:longitude":16.05784,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492510: name \"Melleat\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492510"
+        },
+        {
+            "citation":"GeoNames populated place 12492510: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492510"
+        },
+        {
+            "citation":"GeoNames populated place 12492510: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492510"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901733 (Barh-El-Gazel Ouest), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678519,
+        102191573,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492510
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"86f06286871ebb8e9a0d7dbc34e3356c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":9895059304,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":9895059304,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Melleat",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05784,
+    13.46021,
+    16.05784,
+    13.46021
+],
+  "geometry": {"coordinates":[16.05784,13.46021],"type":"Point"}
+}

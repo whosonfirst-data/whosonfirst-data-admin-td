@@ -1,0 +1,74 @@
+{
+  "id": 9895058890,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22424,20.41823,16.22424,20.41823",
+    "geom:latitude":20.41823,
+    "geom:longitude":16.22424,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11857045: name \"Zouarch\u00e8\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11857045"
+        },
+        {
+            "citation":"GeoNames populated place 11857045: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11857045"
+        },
+        {
+            "citation":"GeoNames populated place 11857045: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11857045"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901659 (Tibesti Ouest), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678505,
+        102191573,
+        1091901659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11857045
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"91d0fd6d8aefe7cef026a1b8148c1bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901659,
+            "locality_id":9895058890,
+            "region_id":85678505
+        }
+    ],
+    "wof:id":9895058890,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Zouarch\u00e8",
+    "wof:parent_id":1091901659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22424,
+    20.41823,
+    16.22424,
+    20.41823
+],
+  "geometry": {"coordinates":[16.22424,20.41823],"type":"Point"}
+}
