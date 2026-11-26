@@ -1,0 +1,74 @@
+{
+  "id": 9895058925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0097,14.41197,22.0097,14.41197",
+    "geom:latitude":14.41197,
+    "geom:longitude":22.0097,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492105: name \"Waya-Waya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492105"
+        },
+        {
+            "citation":"GeoNames populated place 12492105: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492105"
+        },
+        {
+            "citation":"GeoNames populated place 12492105: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492105"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492105
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9051f32de51c899a9497bbe1c95e5794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895058925,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895058925,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Waya-Waya",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0097,
+    14.41197,
+    22.0097,
+    14.41197
+],
+  "geometry": {"coordinates":[22.0097,14.41197],"type":"Point"}
+}

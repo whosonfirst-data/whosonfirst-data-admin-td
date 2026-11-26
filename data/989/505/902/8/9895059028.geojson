@@ -1,0 +1,74 @@
+{
+  "id": 9895059028,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97708,14.47406,21.97708,14.47406",
+    "geom:latitude":14.47406,
+    "geom:longitude":21.97708,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492209: name \"Hiwingn\u00e9 I\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492209"
+        },
+        {
+            "citation":"GeoNames populated place 12492209: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492209"
+        },
+        {
+            "citation":"GeoNames populated place 12492209: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492209"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492209
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cbe2bf14f8737fcf0d9d65944be0aa2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895059028,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059028,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Hiwingn\u00e9 I",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97708,
+    14.47406,
+    21.97708,
+    14.47406
+],
+  "geometry": {"coordinates":[21.97708,14.47406],"type":"Point"}
+}

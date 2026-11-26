@@ -1,0 +1,74 @@
+{
+  "id": 9895058938,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01232,14.44351,22.01232,14.44351",
+    "geom:latitude":14.44351,
+    "geom:longitude":22.01232,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492118: name \"Loune\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492118"
+        },
+        {
+            "citation":"GeoNames populated place 12492118: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492118"
+        },
+        {
+            "citation":"GeoNames populated place 12492118: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492118"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492118
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9eed731d9b39a4b0e18d6d50c0ac3d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895058938,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895058938,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Loune",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01232,
+    14.44351,
+    22.01232,
+    14.44351
+],
+  "geometry": {"coordinates":[22.01232,14.44351],"type":"Point"}
+}

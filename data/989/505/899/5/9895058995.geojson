@@ -1,0 +1,74 @@
+{
+  "id": 9895058995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05713,14.4426,22.05713,14.4426",
+    "geom:latitude":14.4426,
+    "geom:longitude":22.05713,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492176: name \"Faki Boukour\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492176"
+        },
+        {
+            "citation":"GeoNames populated place 12492176: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492176"
+        },
+        {
+            "citation":"GeoNames populated place 12492176: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492176"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492176
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4a8252c4700468a52789f5725f57abb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895058995,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895058995,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Faki Boukour",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05713,
+    14.4426,
+    22.05713,
+    14.4426
+],
+  "geometry": {"coordinates":[22.05713,14.4426],"type":"Point"}
+}

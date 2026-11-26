@@ -1,0 +1,74 @@
+{
+  "id": 9895059166,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74599,14.40345,21.74599,14.40345",
+    "geom:latitude":14.40345,
+    "geom:longitude":21.74599,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492363: name \"Q. Barounga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492363"
+        },
+        {
+            "citation":"GeoNames populated place 12492363: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492363"
+        },
+        {
+            "citation":"GeoNames populated place 12492363: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492363"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492363
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cfb95fc6dbb483f41caaf07c93c002c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895059166,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059166,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Q. Barounga",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74599,
+    14.40345,
+    21.74599,
+    14.40345
+],
+  "geometry": {"coordinates":[21.74599,14.40345],"type":"Point"}
+}

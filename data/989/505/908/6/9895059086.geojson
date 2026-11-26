@@ -1,0 +1,74 @@
+{
+  "id": 9895059086,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50216,14.22441,22.50216,14.22441",
+    "geom:latitude":14.22441,
+    "geom:longitude":22.50216,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492270: name \"Bouroung Chimal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492270"
+        },
+        {
+            "citation":"GeoNames populated place 12492270: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492270"
+        },
+        {
+            "citation":"GeoNames populated place 12492270: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492270"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492270
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2bf2a17e517bb971f3d38aa1a7140f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895059086,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059086,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Bouroung Chimal",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50216,
+    14.22441,
+    22.50216,
+    14.22441
+],
+  "geometry": {"coordinates":[22.50216,14.22441],"type":"Point"}
+}

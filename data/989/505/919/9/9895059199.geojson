@@ -1,0 +1,74 @@
+{
+  "id": 9895059199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13335,14.92941,22.13335,14.92941",
+    "geom:latitude":14.92941,
+    "geom:longitude":22.13335,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492396: name \"Kokar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492396"
+        },
+        {
+            "citation":"GeoNames populated place 12492396: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492396"
+        },
+        {
+            "citation":"GeoNames populated place 12492396: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492396"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901453 (Iriba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492396
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4685f8693a3b20fa66b7791a56d70fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901453,
+            "locality_id":9895059199,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059199,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Kokar",
+    "wof:parent_id":1091901453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13335,
+    14.92941,
+    22.13335,
+    14.92941
+],
+  "geometry": {"coordinates":[22.13335,14.92941],"type":"Point"}
+}

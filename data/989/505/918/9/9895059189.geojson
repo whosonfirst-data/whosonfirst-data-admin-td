@@ -1,0 +1,74 @@
+{
+  "id": 9895059189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02884,14.43521,22.02884,14.43521",
+    "geom:latitude":14.43521,
+    "geom:longitude":22.02884,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492386: name \"Eya Gosse\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492386"
+        },
+        {
+            "citation":"GeoNames populated place 12492386: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492386"
+        },
+        {
+            "citation":"GeoNames populated place 12492386: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492386"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492386
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9f4077d1d646d00204f399b18180b76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895059189,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059189,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Eya Gosse",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02884,
+    14.43521,
+    22.02884,
+    14.43521
+],
+  "geometry": {"coordinates":[22.02884,14.43521],"type":"Point"}
+}

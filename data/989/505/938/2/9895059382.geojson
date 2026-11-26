@@ -1,0 +1,74 @@
+{
+  "id": 9895059382,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3089,13.24395,18.3089,13.24395",
+    "geom:latitude":13.24395,
+    "geom:longitude":18.3089,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492593: name \"Am Tououss\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492593"
+        },
+        {
+            "citation":"GeoNames populated place 12492593: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492593"
+        },
+        {
+            "citation":"GeoNames populated place 12492593: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492593"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901485 (Batha Ouest), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678449,
+        102191573,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492593
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2dde791a8b7a4530cdd29a16250d0c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":9895059382,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":9895059382,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Am Tououss",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3089,
+    13.24395,
+    18.3089,
+    13.24395
+],
+  "geometry": {"coordinates":[18.3089,13.24395],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895059369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56017,14.17309,16.56017,14.17309",
+    "geom:latitude":14.17309,
+    "geom:longitude":16.56017,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492579: name \"Tchorogagna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492579"
+        },
+        {
+            "citation":"GeoNames populated place 12492579: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492579"
+        },
+        {
+            "citation":"GeoNames populated place 12492579: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492579"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901525 (Barh-El-Gazel Nord), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678519,
+        102191573,
+        1091901525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492579
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eed7ea4c9ff408d93d7cdb101c03e695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901525,
+            "locality_id":9895059369,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":9895059369,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Tchorogagna",
+    "wof:parent_id":1091901525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56017,
+    14.17309,
+    16.56017,
+    14.17309
+],
+  "geometry": {"coordinates":[16.56017,14.17309],"type":"Point"}
+}

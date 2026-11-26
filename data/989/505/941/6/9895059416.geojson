@@ -1,0 +1,74 @@
+{
+  "id": 9895059416,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96192,12.61061,21.96192,12.61061",
+    "geom:latitude":12.61061,
+    "geom:longitude":21.96192,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12902908: name \"Ndara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12902908"
+        },
+        {
+            "citation":"GeoNames populated place 12902908: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12902908"
+        },
+        {
+            "citation":"GeoNames populated place 12902908: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12902908"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091900861 (Kimiti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678523,
+        102191573,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12902908
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a3dd3a13b8341a4d0f610ab98ce81880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":9895059416,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":9895059416,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Ndara",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96192,
+    12.61061,
+    21.96192,
+    12.61061
+],
+  "geometry": {"coordinates":[21.96192,12.61061],"type":"Point"}
+}

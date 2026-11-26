@@ -1,0 +1,74 @@
+{
+  "id": 9895059126,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13707,15.65541,22.13707,15.65541",
+    "geom:latitude":15.65541,
+    "geom:longitude":22.13707,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492313: name \"Himeda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492313"
+        },
+        {
+            "citation":"GeoNames populated place 12492313: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492313"
+        },
+        {
+            "citation":"GeoNames populated place 12492313: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492313"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901453 (Iriba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492313
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cd08a98e5df734ac4d408caf4af7f785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901453,
+            "locality_id":9895059126,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059126,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Himeda",
+    "wof:parent_id":1091901453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13707,
+    15.65541,
+    22.13707,
+    15.65541
+],
+  "geometry": {"coordinates":[22.13707,15.65541],"type":"Point"}
+}

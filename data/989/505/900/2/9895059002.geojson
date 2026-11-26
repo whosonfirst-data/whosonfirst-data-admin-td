@@ -1,0 +1,74 @@
+{
+  "id": 9895059002,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.68986,14.16893,21.68986,14.16893",
+    "geom:latitude":14.16893,
+    "geom:longitude":21.68986,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492183: name \"Marigu\u00e9 Sak\u00e9r\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492183"
+        },
+        {
+            "citation":"GeoNames populated place 12492183: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492183"
+        },
+        {
+            "citation":"GeoNames populated place 12492183: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492183"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492183
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b7de830e65123037ccb332026b9a627f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895059002,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059002,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Marigu\u00e9 Sak\u00e9r\u00e9",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.68986,
+    14.16893,
+    21.68986,
+    14.16893
+],
+  "geometry": {"coordinates":[21.68986,14.16893],"type":"Point"}
+}

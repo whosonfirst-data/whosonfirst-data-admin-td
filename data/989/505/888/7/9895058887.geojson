@@ -1,0 +1,74 @@
+{
+  "id": 9895058887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03636,14.91183,15.03636,14.91183",
+    "geom:latitude":14.91183,
+    "geom:longitude":15.03636,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6983760: name \"Arianga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6983760"
+        },
+        {
+            "citation":"GeoNames populated place 6983760: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6983760"
+        },
+        {
+            "citation":"GeoNames populated place 6983760: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6983760"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901571 (Nord Kanem), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678439,
+        102191573,
+        1091901571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983760
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2839044476323cfa3518512ad44027fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901571,
+            "locality_id":9895058887,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":9895058887,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Arianga",
+    "wof:parent_id":1091901571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03636,
+    14.91183,
+    15.03636,
+    14.91183
+],
+  "geometry": {"coordinates":[15.03636,14.91183],"type":"Point"}
+}

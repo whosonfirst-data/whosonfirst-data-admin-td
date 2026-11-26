@@ -1,0 +1,75 @@
+{
+  "id": 9895058877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3,12.8,21.3,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":21.3,
+    "gn:population":9190,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 245791: name \"Abdi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/245791"
+        },
+        {
+            "citation":"GeoNames populated place 245791: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/245791"
+        },
+        {
+            "citation":"GeoNames populated place 245791: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/245791"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901035 (Abdi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678463,
+        102191573,
+        1091901035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245791
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c7fa814535c06490f9c6a8e104d4943c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901035,
+            "locality_id":9895058877,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":9895058877,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Abdi",
+    "wof:parent_id":1091901035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3,
+    12.8,
+    21.3,
+    12.8
+],
+  "geometry": {"coordinates":[21.3,12.8],"type":"Point"}
+}

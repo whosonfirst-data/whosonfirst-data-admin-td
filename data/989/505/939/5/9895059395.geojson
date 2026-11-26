@@ -1,0 +1,74 @@
+{
+  "id": 9895059395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15785,13.27837,18.15785,13.27837",
+    "geom:latitude":13.27837,
+    "geom:longitude":18.15785,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492615: name \"Migne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492615"
+        },
+        {
+            "citation":"GeoNames populated place 12492615: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492615"
+        },
+        {
+            "citation":"GeoNames populated place 12492615: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492615"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901485 (Batha Ouest), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678449,
+        102191573,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492615
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"13a6e30ce740311a007116c8c1991fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":9895059395,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":9895059395,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Migne",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15785,
+    13.27837,
+    18.15785,
+    13.27837
+],
+  "geometry": {"coordinates":[18.15785,13.27837],"type":"Point"}
+}

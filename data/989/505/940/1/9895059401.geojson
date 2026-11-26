@@ -1,0 +1,74 @@
+{
+  "id": 9895059401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13863,12.81518,18.13863,12.81518",
+    "geom:latitude":12.81518,
+    "geom:longitude":18.13863,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492622: name \"Ab Ounirane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492622"
+        },
+        {
+            "citation":"GeoNames populated place 12492622: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492622"
+        },
+        {
+            "citation":"GeoNames populated place 12492622: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492622"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901485 (Batha Ouest), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678449,
+        102191573,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492622
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a2268d16939fbe1aec3668ec36ec5c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":9895059401,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":9895059401,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Ab Ounirane",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13863,
+    12.81518,
+    18.13863,
+    12.81518
+],
+  "geometry": {"coordinates":[18.13863,12.81518],"type":"Point"}
+}

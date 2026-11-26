@@ -1,0 +1,74 @@
+{
+  "id": 9895059288,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55651,13.78795,16.55651,13.78795",
+    "geom:latitude":13.78795,
+    "geom:longitude":16.55651,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492488: name \"Madrianga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492488"
+        },
+        {
+            "citation":"GeoNames populated place 12492488: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492488"
+        },
+        {
+            "citation":"GeoNames populated place 12492488: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492488"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901247 (Barh-El-Gazel Sud), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678519,
+        102191573,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492488
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"50f2a7850f2a00b57edc8488d3bb7e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":9895059288,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":9895059288,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Madrianga",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55651,
+    13.78795,
+    16.55651,
+    13.78795
+],
+  "geometry": {"coordinates":[16.55651,13.78795],"type":"Point"}
+}

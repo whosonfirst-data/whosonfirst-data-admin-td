@@ -1,0 +1,74 @@
+{
+  "id": 9895059128,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1211,15.64839,22.1211,15.64839",
+    "geom:latitude":15.64839,
+    "geom:longitude":22.1211,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492315: name \"Kadjana Kebir\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492315"
+        },
+        {
+            "citation":"GeoNames populated place 12492315: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492315"
+        },
+        {
+            "citation":"GeoNames populated place 12492315: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492315"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901453 (Iriba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492315
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3c1241867e858855826a64b9589c9387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901453,
+            "locality_id":9895059128,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059128,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Kadjana Kebir",
+    "wof:parent_id":1091901453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1211,
+    15.64839,
+    22.1211,
+    15.64839
+],
+  "geometry": {"coordinates":[22.1211,15.64839],"type":"Point"}
+}

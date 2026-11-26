@@ -1,0 +1,74 @@
+{
+  "id": 9895059065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4235,14.199,22.4235,14.199",
+    "geom:latitude":14.199,
+    "geom:longitude":22.4235,
+    "iso:country":"TD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492246: name \"Tir\u00e9 Magarine\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492246"
+        },
+        {
+            "citation":"GeoNames populated place 12492246: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492246"
+        },
+        {
+            "citation":"GeoNames populated place 12492246: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492246"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091901349 (Dar Tama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325,
+        85678453,
+        102191573,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492246
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eee2fd46a09552adf1621d24237bec42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":9895059065,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":9895059065,
+    "wof:lastmodified":1795735030,
+    "wof:name":"Tir\u00e9 Magarine",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4235,
+    14.199,
+    22.4235,
+    14.199
+],
+  "geometry": {"coordinates":[22.4235,14.199],"type":"Point"}
+}
